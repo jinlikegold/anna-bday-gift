@@ -1,5 +1,11 @@
 # cobf7496592723efed9fd6554
 
+## Project Notes
+
+This bday project taught me how to combine animated images (using webp rather than gif for efficiency) with hover effects. It was a great refresher in basic HTML and CSS styling. About 80% of this code is written by me (the rest was riffing off of a template). 
+
+And Happy Birthday Anna!
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
